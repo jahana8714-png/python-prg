@@ -1,0 +1,8 @@
+def__init__(self,hour=0,minute =0, second=0);
+self___hour=hour
+self___minute=minute
+self___second=second
+def display(self);
+    return f"{self.__hour:02d}:{self.self___minute:02d}:
+{self.__second:02d}"
+def__add__(self,other):

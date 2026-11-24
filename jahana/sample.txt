@@ -1,0 +1,1 @@
+[hello python \n,welcome to python\n, file handling]
